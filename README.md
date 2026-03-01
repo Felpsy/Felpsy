@@ -1,3 +1,4 @@
 # Hi 👋, I'm Felipe Bastos
 
-🚀 Software Engineering Student | Backend Developer
+🚀 Estudante de Engenharia de Software | Interesse em Backend
+
